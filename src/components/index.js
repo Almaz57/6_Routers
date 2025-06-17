@@ -10,4 +10,4 @@ export * from '../hooks/use-request-add';
 export * from '../hooks/use-request-delete';
 export * from '../hooks/use-request-update';
 
-export * from './features/textGenerate';
+export * from '../features/textGenerate';
